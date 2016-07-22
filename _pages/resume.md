@@ -22,22 +22,27 @@ Postdoctoral Fellow "Juan de la Cierva", March 2012 to October 2013.
 **University of Texas at Austin**
 
 Postdoctoral Researcher, September 2011 to March 2012.
+
 Supervisors: Victor Eijkhout and Robert van de Geijn.
 
 **Universitat Jaume I de Castelló**
 
 PhD in Computer Science, May 2011.
+
 Dissertation: "Matrix Computations on Graphics Processors and Clusters of GPUs".
+
 Supervisors: Rafael Mayo, Gregorio Quintana-Ortí.
 
 **Universitat Jaume I de Castelló**
 
 MS in Intelligent Systems, June 2007.
+
 Supervisors: Rafael Mayo, Enrique S. Quintana-Ortí.
 
 **Universitat Jaume I de Castelló**
 
 BS In Computer Science, June 2006.
+
 Supervisor: Enrique S. Quintana-Ortí.
 
 ### Online profiles.
