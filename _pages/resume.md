@@ -2,7 +2,7 @@
 title: "Resume"
 layout: single
 sitemap: false
-permalink: /resume.md
+permalink: /resume.html
 ---
 
 ## About me
