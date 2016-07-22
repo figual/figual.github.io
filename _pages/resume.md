@@ -26,7 +26,7 @@ Supervisors: Victor Eijkhout and Robert van de Geijn.
 
 PhD in Computer Science, May 2011.
 
-Dissertation: "Matrix Computations on Graphics Processors and Clusters of GPUs".
+Dissertation: [Matrix Computations on Graphics Processors and Clusters of GPUs](http://www.cs.utexas.edu/users/flame/pubs/FranDissertation.pdf).
 
 Supervisors: Rafael Mayo, Gregorio Quintana-Ortí.
 
