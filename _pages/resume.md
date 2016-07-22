@@ -1,5 +1,6 @@
 ---
-title: "Francisco D. Igual"
+title: Francisco D. Igual
+author_profile: true
 layout: archive
 sitemap: false
 permalink: /resume.html
