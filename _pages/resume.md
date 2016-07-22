@@ -20,7 +20,7 @@ Postdoctoral Fellow "Juan de la Cierva", March 2012 to October 2013.
 
 Postdoctoral Researcher, September 2011 to March 2012.
 
-Supervisors: Victor Eijkhout and Robert van de Geijn.
+Advisors: Victor Eijkhout and Robert van de Geijn.
 
 **Universitat Jaume I de Castelló**
 
@@ -28,19 +28,19 @@ PhD in Computer Science, May 2011.
 
 Dissertation: [Matrix Computations on Graphics Processors and Clusters of GPUs](http://www.cs.utexas.edu/users/flame/pubs/FranDissertation.pdf).
 
-Supervisors: Rafael Mayo, Gregorio Quintana-Ortí.
+Advisors: Rafael Mayo, Gregorio Quintana-Ortí.
 
 **Universitat Jaume I de Castelló**
 
 MS in Intelligent Systems, June 2007.
 
-Supervisors: Rafael Mayo, Enrique S. Quintana-Ortí.
+Advisors: Rafael Mayo, Enrique S. Quintana-Ortí.
 
 **Universitat Jaume I de Castelló**
 
-BS In Computer Science, June 2006.
+BS in Computer Science, June 2006.
 
-Supervisor: Enrique S. Quintana-Ortí.
+Advisor: Enrique S. Quintana-Ortí.
 
 ### Online profiles.
 
@@ -52,7 +52,7 @@ Supervisor: Enrique S. Quintana-Ortí.
 * [ResearcherID](http://www.researcherid.com/rid/D-5530-2015).
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24765857000).
 * [ResearchGate](https://www.researchgate.net/profile/Francisco_Igual).
-* Google Scholar h-index: 16.
+* **Google Scholar h-index: 16**.
 
 ## Publications by year.
 
