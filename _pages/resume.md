@@ -6,10 +6,6 @@ sitemap: false
 permalink: /resume.html
 ---
 
-## About me
-
-Francisco D. Igual, Assistant Professor, figual@ucm.es
-
 ## Education and professional experience
 
 **Universidad Complutense de Madrid**
