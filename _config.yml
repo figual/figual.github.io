@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Francisco D. Igual"
 title_separator          : "-"
-name                     : "Francisco D. Igual"
+name                     : "Francisco D. Igual, PhD"
 description              : "Personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
