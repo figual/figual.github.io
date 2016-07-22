@@ -1,6 +1,6 @@
 ---
-title: "Resume"
-layout: single
+title: "Francisco D. Igual"
+layout: archive
 sitemap: false
 permalink: /resume.html
 ---
