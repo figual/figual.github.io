@@ -1,5 +1,5 @@
 ---
-title: Francisco D. Igual
+title: Francisco D. Igual, Assistant Professor
 author_profile: true
 layout: archive
 sitemap: true
