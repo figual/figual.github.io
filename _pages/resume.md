@@ -14,9 +14,9 @@ Assistant Professor, October 2013 - present.
 
 **Universidad Complutense de Madrid**
 
-Postdoctoral Fellow "Juan de la Cierva", March 2012 to October 2013.
+Postdoctoral Fellow *"Juan de la Cierva"*, March 2012 to October 2013.
 
-**University of Texas at Austin**
+**University of Texas at Austin/TACC**
 
 Postdoctoral Researcher, September 2011 to March 2012.
 
@@ -52,26 +52,5 @@ Advisor: Enrique S. Quintana-Ortí.
 * [ResearcherID](http://www.researcherid.com/rid/D-5530-2015).
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24765857000).
 * [ResearchGate](https://www.researchgate.net/profile/Francisco_Igual).
-* **Google Scholar h-index: 16**.
+* **Google Scholar h-index (as of 2016): 16**.
 
-## Publications by year.
-
-### 2016
-
-### 2015
-
-### 2014
-
-### 2013
-
-### 2012
-
-### 2011
-
-### 2010
-
-### 2009
-
-### 2008
-
-### 2007
