@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Francisco D. Igual" />
+  <title>Presentaciones Web con Markdown reveal.js</title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
+    <style type="text/css">code{white-space: pre;}</style>
+    <link rel="stylesheet" href="reveal.js/css/theme/black.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+  if( window.location.search.match( /print-pdf/gi ) ) {
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = 'reveal.js/css/print/pdf.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  }
+</script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Presentaciones Web con Markdown reveal.js</h1>
+    <h3 class="author">Francisco D. Igual</h3>
+    <h4 class="date">Curso 2016-2017</h3>
+</section>
+
+<section><section id="objetivos" class="titleslide slide level1"><h1>Objetivos</h1></section><section id="presentaciones-web-con-markdown" class="slide level2">
+<h1>Presentaciones web con Markdown</h1>
+<ul>
+<li>Reutilización de material y contenido
+<ul>
+<li>Del formato se encarga <a href="https::/enlace">reveal.js</a></li>
+</ul></li>
+<li>Creación de presentaciones visualmente atractivas
+<ul>
+<li>¡Esta presentación está escrita usando Markdown!</li>
+</ul></li>
+<li>Publicación online en <a href="https://www.github.com">github</a>
+<ul>
+<li>Portabilidad, persistencia, facilidad</li>
+</ul></li>
+<li>El código de esta presentación está accesible <a href="https:://www.github.com">aquí</a></li>
+</ul>
+</section></section>
+<section><section id="introducción" class="titleslide slide level1"><h1>Introducción</h1></section><section id="qué-sabemos-hasta-ahora" class="slide level2">
+<h1>¿Qué sabemos hasta ahora?</h1>
+<ul>
+<li><strong>Markdown</strong>: lenguaje de marcas
+<ul>
+<li>Facilita la creación de contenido</li>
+<li>Permite centrarnos en el contenido, no en el formato</li>
+</ul></li>
+<li>Junto a <em>pandoc</em>, podemos generar variedad de formatos
+<ul>
+<li>pdf, epub, <strong>HTML</strong>, ...</li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="reveal.js" class="titleslide slide level1"><h1>reveal.js</h1></section><section id="reveal.js-1" class="slide level2">
+<h1>reveal.js</h1>
+<ul>
+<li>reveal.js permite crear presentaciones interactivas
+<ul>
+<li>Utilizando HTML5 a través de Markdown</li>
+</ul></li>
+</ul>
+</section><section id="másteres" class="slide level2">
+<h1>Másteres</h1>
+<ul>
+<li>Ingeniería de Sistemas y de Control* (conjunto con UNED)</li>
+<li>Ingeniería Informática*</li>
+<li><a href="http://www.videojuegos-ucm.es/">Desarrollo de Videojuegos*</a></li>
+</ul>
+</section><section id="departamentos" class="slide level2">
+<h1>Departamentos</h1>
+<ul>
+<li>Sistemas Informáticos y Computación</li>
+<li>Arquitectura de Computadores y Automática*</li>
+<li>Ingeniería del Software e Inteligencia Artificial</li>
+</ul>
+</section><section id="información-adicional" class="slide level2">
+<h1>Información adicional</h1>
+<ul>
+<li>Información titulaciones, grupos de investigación, etc.
+<ul>
+<li><a href="http://informatica.ucm.es" class="uri">http://informatica.ucm.es</a></li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="departamento" class="titleslide slide level1"><h1>Departamento</h1></section><section id="áreas-conocimiento" class="slide level2">
+<h1>Áreas conocimiento</h1>
+<ul>
+<li>Arquitectura y Tecnología de Computadores (ATC)</li>
+<li>Ingenierías de Sistemas y Automática (ISA)</li>
+</ul>
+</section><section id="área-atc" class="slide level2">
+<h1>Área ATC</h1>
+<ul>
+<li><p>Docencia:</p>
+<ul>
+<li>Fundamentos/Estructura/Arquitectura/Tecnología de Computadores</li>
+<li>Redes</li>
+<li>Sistemas Operativos</li>
+<li>...</li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
+<li><p>Investigación:</p>
+<ul>
+<li>Computación de Altas Prestaciones (HPC)</li>
+<li>Computación en la Nube y Distribuida (Cloud/Grid/etc.)</li>
+<li>Sistema Empotrados y e-Health</li>
+<li>Hardware Dinámicamente Reconfigurable (FPGAs)</li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
+<li><p>Colaboración con empresas:</p>
+<ul>
+<li><p>Algunas empresas con las que se ha colaborado: Lucent, IMEC, Texas Instruments, Philips/NXP, Intel, ARM, Imagination Technologies, Indra (Eurofighter Program), BQ, SATLINK, ...</p></li>
+<li><p>Trabajos realizados: diseño/optimización de hardware, diseño/optimización de sofware para sistemas empotrados y de altas prestaciones tanto a nivel de aplicación como de sistema operativo, stack TCP/IP, driver, etc.</p></li>
+</ul></li>
+</ul>
+</section><section id="área-isa" class="slide level2">
+<h1>Área ISA</h1>
+<ul>
+<li><p>Docencia:</p>
+<ul>
+<li>Sistemas Lineales</li>
+<li>Control/Modelado de Sistemas</li>
+<li>Robótica y visión por computador</li>
+<li>Procesamiento de Señales</li>
+<li>Optimización Heurística, IA aplicada al Control</li>
+<li>...</li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
+<li><p>Investigación:</p>
+<ul>
+<li>Optimización de procesos</li>
+<li>Cooperación de vehículos no tripulados (USVs y UAVs)</li>
+<li>S/S GN&amp;C Vehículos no Tripulados</li>
+<li>S/S de Control de Actitud de Satélites (ACS)</li>
+<li>Técnicas de Cooperación bio-inspiradas (Swarming)</li>
+<li>Técnicas de Visión por Computador</li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
+<li><p>Colaboración con empresas:</p>
+<ul>
+<li><p>Algunos ejemplos:</p>
+<ul>
+<li>INTA: S/S Control de Actitud del Satélite Nanosat-1B</li>
+<li>CEPSA: Sistema autónomo para contención de vertidos en el mar</li>
+<li>EADS-CASA: Optimización de trayectorias de UAVs con técnicas de IA</li>
+<li>INDRA: Planificador de ruta del NEC</li>
+<li>REPSOL, ENAGAS: Optimización de redes de distribución de gas</li>
+</ul></li>
+<li><p>Otras empresas: Eurocopter, Airbus, COFARES, ...</p></li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="maneras-de-colaborar" class="titleslide slide level1"><h1>Maneras de colaborar</h1></section><section id="prácticas" class="slide level2">
+<h1>Prácticas</h1>
+<ul>
+<li>Prácticas curriculares Grado/Master</li>
+<li>Prácticas extracurriculares</li>
+</ul>
+</section><section id="curriculares" class="slide level2">
+<h1>Curriculares</h1>
+<ul>
+<li>6-12 créditos ECTS (25-30 horas dedicación del alumno / crédito)</li>
+<li>Máximo 5 horas día en periodo lectivo, 8 horas en periodo no lectivo</li>
+<li>Existe convenio general Tecnatom-UCM, sólo necesario firmar anexo titulación</li>
+</ul>
+</section><section id="extracurriculares" class="slide level2">
+<h1>Extracurriculares</h1>
+<ul>
+<li>Publicidad por parte del centro</li>
+<li>Máximo 5 horas dia en periodo lectivo, 8 horas en periodo no lectivo</li>
+</ul>
+</section><section id="trabajos" class="slide level2">
+<h1>Trabajos</h1>
+<ul>
+<li>Fin de Grado (TFG)</li>
+<li>Fin de Master (TFM)</li>
+</ul>
+</section><section id="tfg-tfm" class="slide level2">
+<h1>TFG / TFM</h1>
+<ul>
+<li><p>Procedimiento dependiente del centro:</p>
+<ul>
+<li>Elección de tema por parte de alumno</li>
+<li>Implicación de la empresa</li>
+</ul></li>
+<li><p>Características comunes:</p>
+<ul>
+<li>6-12 créditos ECTS</li>
+<li>Formalmemte, la propuesta del tema y dirección son responsabilidad del Departamento</li>
+</ul></li>
+</ul>
+</section><section id="contratos-art.-83" class="slide level2">
+<h1>Contratos Art. 83</h1>
+<ul>
+<li><p>Actividades</p>
+<ul>
+<li>Trabajos de Investigación y Desarrollo Experimental.</li>
+<li>Actividades de apoyo tecnológico:
+<ul>
+<li>Estudios o dictámenes, asesoría científico-técnica, certificaciones, etc.</li>
+</ul></li>
+<li>Asesoría en transferencia de tecnología.</li>
+<li>Prestaciones de servicio:
+<ul>
+<li>Análisis, informes técnicos, ensayos, etc.</li>
+</ul></li>
+<li>Cursos a medida</li>
+</ul></li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
+<li><p>Más información:</p>
+<ul>
+<li><a href="https://www.ucm.es/investigacion-y-empresa">Oficina de Transferencia de Resultados de Investigación (OTRI)</a></li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="contacto" class="titleslide slide level1"><h1>Contacto</h1></section><section id="asistentes" class="slide level2">
+<h1>Asistentes</h1>
+<ul>
+<li><a href="mailto:sesteban@ucm.es">Segundo Esteban</a> (ISA)</li>
+<li><a href="mailto:juan.jimenez@fis.ucm.es">Juan Jiménez</a> (ISA)</li>
+<li><a href="mailto:lpinuel@ucm.es">Luis Piñuel</a> (ATC)</li>
+<li><a href="mailto:mpmatias@ucm.es">Manuel Prieto</a> (ATC)
+<ul>
+<li>Vicedecano de Relaciones Externas e Investigación de la Facultad de Informática</li>
+</ul></li>
+</ul>
+</section><section id="centros" class="slide level2">
+<h1>Centros</h1>
+<ul>
+<li>Facultad de Informática
+<ul>
+<li><a href="mailto:vdxfdi@ucm.es">Manuel Prieto Matías</a>, Vicedecano de Relaciones Externas e Investigación</li>
+</ul></li>
+<li>Facultad de Ciencias Físicas
+<ul>
+<li><a href="mailto:vdrfis@ucm.es">Ángel Gómez Nicola</a>, Vicedecano de Investigación y Relaciones Externas</li>
+</ul></li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        theme: 'black', // available themes are in /css/theme
+        transition: 'slide', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+//          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+//          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+]});
+    </script>
+  </body>
+</html>
