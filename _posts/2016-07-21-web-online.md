@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Website online
 author: Francisco D. Igual
 ---

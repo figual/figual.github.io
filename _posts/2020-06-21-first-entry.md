@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 comments: true
-title: MKL linking flags
+title: Setting correct MKL linking flags
 author: Francisco D. Igual
 ---
 
