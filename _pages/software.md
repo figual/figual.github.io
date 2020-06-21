@@ -6,11 +6,11 @@ sitemap: true
 permalink: /software.html
 ---
 
-* BLIS (BLAS-like Library Instantiation Software Framework)
+## BLIS (BLAS-like Library Instantiation Software Framework)
 
-    <https://github.com/flame/blis>
+  Main webpage:  <https://github.com/flame/blis>
 
 
-* *libflame*: High-performance object-based library for DLA computations 
+## *libflame*: High-performance object-based library for DLA computations 
 
-    <https://github.com/flame/blis>
+  Main webpage:  <https://github.com/flame/blis>
