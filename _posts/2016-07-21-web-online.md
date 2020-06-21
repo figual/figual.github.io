@@ -4,5 +4,5 @@ title: Website online
 author: Francisco D. Igual
 ---
 
-This is a test webpage to check the capabilities
-of Jekyll and github for this kind of stuff.
+Welcome to the blog. Here, I will be adding interesting stuff regaring my
+research in High Performance Computing (HPC).
