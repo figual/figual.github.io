@@ -65,10 +65,10 @@ google_ad_slot           :
 author:
   name             : "Francisco D. Igual, PhD"
   avatar           : "foto.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Associate Professor"
   location         : "Univ. Complutense de Madrid"
   email            : "figual@ucm.es"
-  uri              : "https://figual.github.io"
+  uri              : "https://www.ucm.es/figual/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "francisco-igual-588b0543"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
