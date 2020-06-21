@@ -6,7 +6,6 @@ sitemap: true
 permalink: /teaching.html
 ---
 
-
 # Courses 2019/2020:
 
 * *Sistemas Operativos (Grado en Ingeniería Informática)*
