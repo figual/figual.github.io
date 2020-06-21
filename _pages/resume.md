@@ -10,7 +10,15 @@ permalink: /resume.html
 
 **Universidad Complutense de Madrid**
 
-Assistant Professor, October 2013 - present.
+Associate Professor (*Prof. Titular de Universidad*), January 2020 - Present.
+
+**Universidad Complutense de Madrid**
+
+Associate Professor (*Prof. Contratado Doctor*), September 2018 - January 2020.
+
+**Universidad Complutense de Madrid**
+
+Assistant Professor (*Prof. Ayudante Doctor*), October 2013 - August 2018.
 
 **Universidad Complutense de Madrid**
 
