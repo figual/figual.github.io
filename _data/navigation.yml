@@ -10,7 +10,7 @@ main:
     url: /publications.html
 
   - title: "Teaching"
-    url: /
+    url: /teaching.html
 
   - title: "Software"
     url: /software.html
@@ -19,4 +19,4 @@ main:
     url: /
 
   - title: "About"
-    url: /
+    url: /about.html
