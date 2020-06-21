@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: default
+comments: true
 title: MKL linking flags
 author: Francisco D. Igual
 ---

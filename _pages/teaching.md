@@ -7,7 +7,7 @@ permalink: /teaching.html
 ---
 
 
-# Docencia 2019/2020:
+# Courses 2019/2020:
 
 * *Sistemas Operativos (Grado en Ingeniería Informática)*
 * *Sistemas Operativos (Grado en Ingeniería del Software)*
@@ -18,5 +18,3 @@ permalink: /teaching.html
 
 * **Lunes 11-12h**
 * **Miércoles 11-13h**
-
-
